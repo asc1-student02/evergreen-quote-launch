@@ -3,12 +3,12 @@
    kept alive as the marketing front door. */
 
 :root {
-  --evg-green: #0f5132;
-  --evg-green-dark: #0b3d26;
+  --evg-green: #4dcfbe;
+  --evg-green-dark: #08555a;
   --evg-green-soft: #e6f0ea;
   --evg-ink: #1f2a2e;
   --evg-muted: #6a7a72;
-  --evg-amber: #b45309;
+  --evg-amber: #05676e;
 }
 
 * { box-sizing: border-box; }
@@ -117,3 +117,4 @@ body {
   .hero { padding: 48px 20px; }
   .hero h1 { font-size: 1.8rem; }
 }
+.site-nav .nav-badge { background: var(--evg-amber); color: #ffffff; padding: 2px 10px; border-radius: 999px; }
