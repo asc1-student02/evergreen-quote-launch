@@ -2,7 +2,7 @@
 
 ## Goal
 
-> By Thursday end of day, a quote saved in the Evergreen Quote app will survive a reload at the price the estimate promised, and the launch will be running on our cluster and merged to main with both CI jobs green.
+By Thursday, a saved quote will survive a reload at the price promised, and the launch will be on our cluster and merged to main with green checks.
 
 ## "Done" looks like
 
