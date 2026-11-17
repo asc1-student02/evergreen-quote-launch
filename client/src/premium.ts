@@ -8,6 +8,7 @@ const BASE_RATES: Record<CoverageType, number> = {
   auto: 90,
   home: 135,
   life: 70,
+  renters: 40,
 };
 
 export function calculatePremium(
