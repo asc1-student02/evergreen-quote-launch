@@ -46,7 +46,6 @@ function QuoteForm() {
         <option value="auto">Auto</option>
         <option value="home">Home</option>
         <option value="life">Life</option>
-        <option value="renters">Renters</option>
       </select>
 
       <label htmlFor="age">Your age</label>

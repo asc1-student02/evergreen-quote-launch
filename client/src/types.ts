@@ -3,7 +3,7 @@
 // against. One change from the Phase 2 era: quote ids are strings now,
 // because the API's database assigns them ("q1" for seeded quotes, UUIDs
 // for new ones). Numbers made up by the browser are retired.
-export type CoverageType = "auto" | "home" | "life" | "renters";
+export type CoverageType = "auto" | "home" | "life";
 
 export interface Quote {
   id: string;
