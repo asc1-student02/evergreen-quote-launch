@@ -9,7 +9,7 @@
 
 ## Slide 2: What shipped
 
-- A screenshot of the wired app: 
+- A screenshot of the wired app: (in demo deck)
 
 - Link to the merged PR (the diff is the whole program in one page: HTML, TypeScript, JavaScript, a Dockerfile, YAML): https://github.com/asc1-student02/evergreen-quote-launch/pull/9
 - Link to the green two-job CI run (API tests + client type-check and build): https://github.com/asc1-student02/evergreen-quote-launch/actions/runs/44172152615
